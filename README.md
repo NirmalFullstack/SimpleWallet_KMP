@@ -51,3 +51,5 @@ Open the iOS project in Xcode (located in iosApp directory).
 Select a target device or simulator and run the project.
 
 Video:
+https://github.com/user-attachments/assets/1ead74ce-c4c4-43d2-bc54-016a3c35b924
+
